@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`versionExtractor version string 1`] = `
+Object {
+  "name": "aws-amplify",
+  "source": "versionString",
+  "version": undefined,
+}
+`;
+
+exports[`versionExtractor version string 2`] = `
+Object {
+  "name": "React",
+  "source": "versionString",
+  "version": undefined,
+}
+`;
+
+exports[`versionExtractor version string 3`] = `
+Object {
+  "name": "Bootstrap",
+  "source": "versionString2",
+  "version": "4.3.1",
+}
+`;
+
+exports[`versionExtractor version string 4`] = `
+Object {
+  "name": "decimal.js-light",
+  "source": "versionString2",
+  "version": "2.5.0",
+}
+`;
+
+exports[`versionExtractor version string 5`] = `
+Object {
+  "name": "React",
+  "source": "versionString2",
+  "version": "16.5.2",
+}
+`;
+
+exports[`versionExtractor version string 6`] = `
+Object {
+  "name": "URI.js",
+  "source": "versionString2",
+  "version": "4.2.1",
+}
+`;
+
+exports[`versionExtractor version string 7`] = `
+Object {
+  "name": "Parse",
+  "source": "versionString2",
+  "version": "4.6.2",
+}
+`;
+
+exports[`versionExtractor version string 8`] = `
+Object {
+  "name": "punycode",
+  "source": "versionString2",
+  "version": "1.3.2",
+}
+`;
+
+exports[`versionExtractor version string 9`] = `
+Object {
+  "name": "moment-timezone.js",
+  "source": "versionString2",
+  "version": "0.5.23",
+}
+`;
+
+exports[`versionExtractor version string 10`] = `
+Object {
+  "name": "Cookie",
+  "source": "versionString2",
+  "version": "2.2.1",
+}
+`;
+
+exports[`versionExtractor version string 11`] = `null`;
